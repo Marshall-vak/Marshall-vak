@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Marshall_vak.
+I currently only know two languages well and they are javascript and lua / glua.
 
 <!--
 **Marshall-vak/Marshall-vak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
