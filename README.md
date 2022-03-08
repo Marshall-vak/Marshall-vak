@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Marshall_vak.
 I currently only know two languages well and they are javascript and lua / glua.
 
-[![Marshall-vak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshall-vak&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Marshall-vak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marshall-vak&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-vak&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Marshall-vak/Marshall-vak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
