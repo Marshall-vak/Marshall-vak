@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Marshall_vak.
 I code in my downtime or when I'm bored. Most of my work goes to private repos, disconnected-servers org, or other server bases.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Marshall-vak&show_icons=true&theme=tokyonight" alt="marshall-vak" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marshall-vak&theme=tokyonight" alt="marshall-vak" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marshall-vak&layout=compact&theme=tokyonight" alt="marshall-vak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marshall-vak&theme=tokyonight" alt="marshall-vak" /></p>
 
 <!--
 **Marshall-vak/Marshall-vak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
